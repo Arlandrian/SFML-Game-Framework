@@ -86,7 +86,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 + Include source and res folder with right click menu
 </br>
-+ copy /bin content to exe location (outer debug folder) from SFML library folder
++ copy /bin content(dll files) to exe location (outer debug folder) from SFML library folder
 </br>
 + enjoy coding...
  
