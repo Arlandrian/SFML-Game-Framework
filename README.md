@@ -78,14 +78,15 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
  <li>sfml-system-d.lib</li>
 </ul>
 
+
 </br>
-+ copy /bin content to exe location from SFML library folder
-</br>
-+ Copy res, Source folder to project location
++ Copy res, Source folder to project direction
 </br>
 + From Solution Explorer enable "Show All Files"
 </br>
 + Include source and res folder with right click menu
+</br>
++ copy /bin content to exe location (outer debug folder) from SFML library folder
 </br>
 + enjoy coding...
  
