@@ -50,8 +50,8 @@ C/C++ -> Additional Innclude Directories -> add below lines
 <li>%(ProjectDir)\Source</li>
 <li>%(ProjectDir)\res</li>
 </ul>
-
-*Select Release from left top corner and 
+</br>
+* Select Release from left top corner </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -62,7 +62,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
  <li>sfml-system.lib</li>
 </ul>
 </br>
-*Select Debug from left top corner 
+* Select Debug from left top corner 
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -74,11 +74,12 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </ul>
 </br>
 copy /bin content to exe location from SFML folder
-
+</br>
 Copy res, Source folder to project location
-
+</br>
 From Solution Explorer enable "Show All Files"
-include source and res folder
-
+</br>
+Include source and res folder with right click menu
+</br>
 start coding...
  
