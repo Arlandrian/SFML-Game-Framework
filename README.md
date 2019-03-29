@@ -42,7 +42,8 @@ C/C++ -> Additional Innclude Directories -> add below lines
 <li>%(ProjectDir)\res</li>
 </ul>
 </br>
-*Linker -> General -> Additional Lib Dep -> add below lines
+
+Linker -> General -> Additional Lib Dep -> add below lines
 </br>
 <ul>
 <li>C:\External Libs\SFML\lib (change with your SFML Location) </li>
@@ -51,7 +52,8 @@ C/C++ -> Additional Innclude Directories -> add below lines
 <li>%(ProjectDir)\res</li>
 </ul>
 </br>
-* Select Release from left top corner </br>
+
+Select Release from left top corner </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -62,7 +64,8 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
  <li>sfml-system.lib</li>
 </ul>
 </br>
-* Select Debug from left top corner 
+
+Select Debug from left top corner 
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -72,6 +75,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
  <li>sfml-network-d.lib</li>
  <li>sfml-system-d.lib</li>
 </ul>
+
 </br>
 copy /bin content to exe location from SFML folder
 </br>
