@@ -28,7 +28,7 @@ This is a system that allows you to organise different stages of the game. In ot
 
 Create an empty visual studio project
 
-Add a .cpp file (Just add it)
+Add a .cpp file (Just add it you can delete it later)
 
 Project -> Properties
 
@@ -79,7 +79,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </ul>
 
 </br>
-+ copy /bin content to exe location from SFML folder
++ copy /bin content to exe location from SFML library folder
 </br>
 + Copy res, Source folder to project location
 </br>
