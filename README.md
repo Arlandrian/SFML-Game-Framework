@@ -45,7 +45,7 @@ C/C++ -> Additional Innclude Directories -> add below lines
 </ul>
 </br>
 
-Linker -> General -> Additional Lib Dep -> add below lines
+Linker -> General -> Additional Lib Directories -> add below lines
 </br>
 <ul>
 <li>C:\External Libs\SFML\lib (change with your SFML Location) </li>
