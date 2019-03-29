@@ -55,7 +55,7 @@ Linker -> General -> Additional Lib Directories -> add below lines
 </ul>
 </br>
 
-Select Release from left top corner (configuration) </br>
+Select **Release** from left top corner (configuration) </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -67,7 +67,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </ul>
 </br>
 
-Select Debug from left top corner (configuration) </br>
+Select **Debug** from left top corner (configuration) </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -79,13 +79,13 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </ul>
 
 </br>
-copy /bin content to exe location from SFML folder
++ copy /bin content to exe location from SFML folder
 </br>
-Copy res, Source folder to project location
++ Copy res, Source folder to project location
 </br>
-From Solution Explorer enable "Show All Files"
++ From Solution Explorer enable "Show All Files"
 </br>
-Include source and res folder with right click menu
++ Include source and res folder with right click menu
 </br>
-start coding...
++ enjoy coding...
  
