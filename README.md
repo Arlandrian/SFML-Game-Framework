@@ -32,6 +32,8 @@ Add a .cpp file (Just add it)
 
 Project -> Properties
 
+***Make Sure All configuration is selected from topleft corner configuration:***
+
 C/C++ -> Additional Innclude Directories -> add below lines 
 </br>
 
@@ -53,7 +55,7 @@ Linker -> General -> Additional Lib Dep -> add below lines
 </ul>
 </br>
 
-Select Release from left top corner </br>
+Select Release from left top corner (configuration) </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
@@ -65,7 +67,7 @@ Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </ul>
 </br>
 
-Select Debug from left top corner 
+Select Debug from left top corner (configuration) </br>
 Linker -> Input -> Additional Dependencies - > Edit -> add below lines
 </br>
 <ul>
